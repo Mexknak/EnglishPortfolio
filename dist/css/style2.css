@@ -1,0 +1,39 @@
+.dev-hr {
+    max-width: 100px;
+}
+
+.dev-color-hr {
+    background-color: #404040;
+}
+
+.dev-img-photo {
+    border: solid 3px #404040;
+}
+
+.dev-titre-police {
+    z-index: -1;
+    display: flex;
+    font-size: 48px !important;
+    font-family: "Oxygen", sans-serif;
+    text-align: center;
+    justify-content: center;
+    color: #404040;
+}
+
+.feature-extended-image {
+    padding-top: 100px;
+}
+
+.dev-padding {
+    padding-top: 70px;
+}
+
+.dev-liste-ecole {
+    display: flex;
+    flex-direction: column;
+}
+
+.dev-annee {
+    font-size: 15px;
+    color: #A0A0A0;
+}
